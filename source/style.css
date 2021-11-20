@@ -1,0 +1,16 @@
+body{
+    background-image: url(../101.jpg);
+    background-size: cover;
+}
+
+.controls{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #fff;
+}
